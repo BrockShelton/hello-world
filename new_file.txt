@@ -1,2 +1,3 @@
 Changing this file
+change
 Testing new file additions Changing this line
